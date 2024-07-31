@@ -9,5 +9,14 @@ echo "alias dockaka='~/proxy_menu.sh'" >> ~/.bashrc
 # Tải lại tệp cấu hình shell
 source ~/.bashrc
 
+# Tải lại tệp cấu hình shell
+source ~/.bashrc
+
+# Tải lại tệp cấu hình shell
+source ~/.bashrc
+
+# Tải lại tệp cấu hình shell
+source ~/.bashrc
+
 echo "Đã cài thành công! Hãy nhập 'dockaka' để hiện thị menu."
 
